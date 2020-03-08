@@ -2,7 +2,7 @@
 A delicious, refreshing to do app
 
 ## Screenshot:
-![screenshot](/screenshot.png?raw=true "Optional Title")
+![screenshot](/to-dew.png?raw=true "Optional Title")
 
 ## Available Scripts
 
